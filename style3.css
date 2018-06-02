@@ -1,0 +1,39 @@
+canvas {
+		background-image: url("bg3.jpg");
+	margin: 0px;
+}
+body {
+	margin: 0px;
+}
+#btn1 {
+	visibility: hidden;
+	background: rgba(203,153,197,1);
+    border: 1px solid #9361bf;
+    padding: 10px 20px;
+    font-size: 16px;
+    display: inline-block;
+    margin: 0;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    width: 100px;
+    margin: 20px 0;
+    border-left: 0;
+    color: white;
+   
+}
+#btn {
+
+	background: rgba(203,153,197,1);
+    border: 1px solid #9361bf;
+    padding: 10px 20px;
+    font-size: 16px;
+    display: inline-block;
+    margin: 0;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    width: 100px;
+   
+    margin: 20px 0;
+    border-left: 0;
+    color: white;
+}
